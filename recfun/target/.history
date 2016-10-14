@@ -1,0 +1,7 @@
+import recfun
+test
+clean
+reload
+test
+runMain recfun.Main
+submit oscar@oskarizu.net Kv2Rl4qp2wOdfklk
